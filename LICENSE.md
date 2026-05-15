@@ -1,4 +1,4 @@
-# 
+# Enhance Aseprite for PC | Aseprite for Windows with vip Aseprite for PC | Aseprite for Windows Panel | brush-engine + layer-based-editing, the #1 panel. Includes brush-engine and
 
 
 
